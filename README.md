@@ -28,6 +28,12 @@ git config --global user.email "name@mail.com"
 
 #
 ## Git命令
+
+### 不设置代理，试试看 
+git config --global --unset https.proxy
+
+git config --global --unset http.proxy
+
 ### 从远程clone到本地
 
 git clone https://github.com/blitheli/***.git

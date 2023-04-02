@@ -32,5 +32,6 @@ git push    //推送到远程仓库
 git push -u origin master # master可以更换为其他分支
 
 ## 从远程仓库拉取
+git pull
 git pull origin master # master可以更换为其他分支
 

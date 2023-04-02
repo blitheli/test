@@ -7,6 +7,12 @@
 - 使用vsc 界面的提交按钮无法提交
 
 #
+# 代理
+代理文件地址: file:C:/Users/DELL/.gitconfig
+
+git config --list --show-origin
+
+#
 # 基本配置
 ## 配置用户名
 git config --global user.name "name"

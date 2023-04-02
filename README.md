@@ -46,7 +46,7 @@ git add . # 添加所有已修改文件
 git commit -m "注释文字"
 
 ### 推送到远程仓库
-git push    //推送到远程仓库
+git push    //推送到远程仓库(多试几次)
 git push -u origin master # master可以更换为其他分支
 
 ### 从远程仓库拉取
